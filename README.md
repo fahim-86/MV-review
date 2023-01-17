@@ -41,6 +41,7 @@ After you're finished please remove all the comments and instructions!
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -58,6 +59,8 @@ It is a personal portfolio mobile view page devided into three sections:
 ### Tech Stack <a name="tech-stack"></a>
 
 > This project has build using simple <b>HTML</b> & <b>CSS Flex</b> & <b>Grid</b>
+
+<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -87,6 +90,12 @@ Feel free to check the [issues page](https://github.com/microverseinc/readme-tem
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project please support us providing your valuable feedback.
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank my coding partner [Dienebi Ombu](https://github.com/ebidien) for sharing the code with me.
 
 <!-- LICENSE -->
 
